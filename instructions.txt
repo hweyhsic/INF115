@@ -1,0 +1,11 @@
+#find . -type f -size 58k
+#or 
+#find . -type f -size 0
+
+must re-process files found in methods_failing.txt
+
+must re-process files found in methods_empty.txt
+cp methods_empty.txt ~/INF115/defects4j/tmp/closure_6_buggy
+
+modify bash_script.sh to read from methods_empty.txt and to copy .xml files into ~/INF115/parsing/new_output_files
+t
