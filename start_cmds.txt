@@ -1,0 +1,4 @@
+defects4j info -p Closure 
+defects4j info -p Closure -b 6
+defects4j checkout -p Closure -v 6b -w /tmp/closure_6_buggy
+//might have to clear out ../../tmp/closure_6_buggy and reinit
