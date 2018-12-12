@@ -1188,14 +1188,12 @@ com.google.javascript.jscomp.CrossModuleMethodMotionTest::testGlobalFunctionsInG
 com.google.javascript.jscomp.CrossModuleMethodMotionTest::testMoveMethodsInRightOrder2
 com.google.javascript.jscomp.CrossModuleMethodMotionTest::testCantMovePrototypeProp
 com.google.javascript.jscomp.CrossModuleMethodMotionTest::testTwoMethods2
-com.google.javascript.jscomp.CrossModuleMethodMotionTest::testTwoMethods
 com.google.javascript.jscomp.CrossModuleMethodMotionTest::testMovePrototypeMethod1
 com.google.javascript.jscomp.CrossModuleMethodMotionTest::testMovePrototypeMethod2
 com.google.javascript.jscomp.CrossModuleMethodMotionTest::testMovePrototypeMethod3
 com.google.javascript.jscomp.CrossModuleMethodMotionTest::testMoveMethodsUsedInTwoModules2
 com.google.javascript.jscomp.CrossModuleMethodMotionTest::testClosureVariableReads1
 com.google.javascript.jscomp.CrossModuleMethodMotionTest::testClosureVariableReads2
-com.google.javascript.jscomp.CrossModuleMethodMotionTest::testClosureVariableReads3
 com.google.javascript.jscomp.CrossModuleMethodMotionTest::testIssue600b
 com.google.javascript.jscomp.CrossModuleMethodMotionTest::testIssue600c
 com.google.javascript.jscomp.CrossModuleMethodMotionTest::testIssue600d
@@ -3241,7 +3239,6 @@ com.google.javascript.jscomp.LooseTypeCheckTest::testGoodExtends7
 com.google.javascript.jscomp.LooseTypeCheckTest::testGoodExtends8
 com.google.javascript.jscomp.LooseTypeCheckTest::testGoodExtends9
 com.google.javascript.jscomp.LooseTypeCheckTest::testTypeCheckDefaultExterns
-com.google.javascript.jscomp.LooseTypeCheckTest::testTypeRedefinition
 com.google.javascript.jscomp.LooseTypeCheckTest::testIssue124
 com.google.javascript.jscomp.LooseTypeCheckTest::testBadImplements1
 com.google.javascript.jscomp.LooseTypeCheckTest::testBadImplements2
@@ -6042,7 +6039,6 @@ com.google.javascript.jscomp.TypeCheckTest::testIssue537a
 com.google.javascript.jscomp.TypeCheckTest::testIssue537b
 com.google.javascript.jscomp.TypeCheckTest::testIssue537c
 com.google.javascript.jscomp.TypeCheckTest::testIssue537d
-com.google.javascript.jscomp.TypeCheckTest::testIssue635b
 com.google.javascript.jscomp.TypeCheckTest::testQualifiedNameInference1
 com.google.javascript.jscomp.TypeCheckTest::testQualifiedNameInference2
 com.google.javascript.jscomp.TypeCheckTest::testQualifiedNameInference3
@@ -6202,7 +6198,6 @@ com.google.javascript.jscomp.TypeCheckTest::testGoodExtends7
 com.google.javascript.jscomp.TypeCheckTest::testGoodExtends8
 com.google.javascript.jscomp.TypeCheckTest::testGoodExtends9
 com.google.javascript.jscomp.TypeCheckTest::testTypeCheckDefaultExterns
-com.google.javascript.jscomp.TypeCheckTest::testTypeRedefinition
 com.google.javascript.jscomp.TypeCheckTest::testIssue124
 com.google.javascript.jscomp.TypeCheckTest::testIssue259
 com.google.javascript.jscomp.TypeCheckTest::testIssue301
